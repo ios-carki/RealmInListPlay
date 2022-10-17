@@ -73,6 +73,7 @@ class MainViewController: UIViewController {
         try! localeRealm.write {
             task.memo = memo
         }
+        
     }
     
     
